@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "name": "VoxelLink Official Script Repository",
+  "author": "VoxelLink",
+  "description": "The official script repository for VoxelLink, featuring a wide variety of high-quality scripts contributed by the community.",
+  "website": "https://github.com/VoxelLinkCN/VoxelLinkScripts",
+  "plugins": [
+    {
+      "schema_version": 1,
+      "id": "default_scripts",
+      "name": "Default Scripts Collection",
+      "author": "VoxelLink",
+      "version": "1.0.0",
+      "description": "A collection of default scripts included with VoxelLink",
+      "type": "collection",
+      "download": "https://api.github.com/repos/VoxelLinkCN/VoxelLinkScripts/zipball/main"
+    }
+  ]
+}
